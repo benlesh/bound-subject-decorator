@@ -1,1 +1,1 @@
-module.exports = require('./lib/rx-handler');
+module.exports = require('./lib/bound-subject');
